@@ -7,14 +7,14 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p>
             Hi Everyone, I am <span className="purple">Luu Ngoc Hoan </span>
             from <span className="purple"> Ha Noi, Viet Nam.</span>
             <br />
-            I am currently employed as a front-end developer at VNDIRECT.
-            <br />
             I completed Information Technology Engineering at the Academy of
             Cryptogaphy Techniques.
+            <br />
+            I am currently employed as a front-end developer at VNDIRECT.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
